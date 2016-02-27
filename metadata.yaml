@@ -1,0 +1,46 @@
+_repo: The-Lock-and-Key-Library-the-Most-Interesting-Stories-of-All-Nations-French-Novels_2047
+contributor:
+  contributors:
+  - agent_name: Cherbuliez, Victor
+    alias: Cherbuliez, Charles Victor
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '927'
+    url: http://www.gutenberg.org/2009/agents/927
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Cherbuliez
+  - agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Paul Charles Joseph
+    - Bourget, Charles Joseph Paul
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
+  creator:
+    editor:
+      agent_name: Hawthorne, Julian
+      birthdate: 1846
+      deathdate: 1934
+      gutenberg_agent_id: '675'
+      url: http://www.gutenberg.org/2009/agents/675
+      wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, French'
+- !lcsh 'French literature'
+- !lcc 'PQ'
+tableOfContents: "Count Kostia, by Victor Cherbuliez\r\nAndre Cornelis, by Paul Bourget\r\
+  \nThe Last of the Costellos, by Anonymous\r\nLady Betty's Indiscretion, by Anonymous"
+title: 'The Lock and Key Library: the Most Interesting Stories of All Nations: French
+  Novels'
+url: http://www.gutenberg.org/ebooks/2047
