@@ -1,5 +1,5 @@
 _repo: The-Lock-and-Key-Library-the-Most-Interesting-Stories-of-All-Nations-French-Novels_2047
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributors:
   - agent_name: Cherbuliez, Victor
@@ -45,6 +45,7 @@ subjects:
 - !lcsh 'Detective and mystery stories, French'
 - !lcsh 'French literature'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: "Count Kostia, by Victor Cherbuliez\r\nAndre Cornelis, by Paul Bourget\r\
   \nThe Last of the Costellos, by Anonymous\r\nLady Betty's Indiscretion, by Anonymous"
 title: 'The Lock and Key Library: the Most Interesting Stories of All Nations: French
